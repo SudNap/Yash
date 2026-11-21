@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-D.0.0.1-yellow)
 ![Status](https://img.shields.io/badge/status-prototype-orange)
 ![Platform](https://img.shields.io/badge/platform-Termux_·_Linux_·_macOS_·_BSD-lightgrey)
-![License](https://img.shields.io/badge/license-not_specified-inactive)
+![License](https://img.shields.io/badge/mit-license-inactive)
 
 > [!WARNING]
 > Early development build. Not a production shell. Test in a disposable directory.
